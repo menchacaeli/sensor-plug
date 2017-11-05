@@ -1,0 +1,25 @@
+{
+  "name": "sensorplug",
+  "version": "1.0.0",
+  "description": "A micro library to access device sensors via javascript.",
+  "main": "sensorplug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menchacaeli/sensorplug.git"
+  },
+  "keywords": [
+    "device",
+    "sensors",
+    "javascript",
+    "mobile"
+  ],
+  "author": "Eli Menchaca <menchacaeli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/menchacaeli/sensorplug/issues"
+  },
+  "homepage": "https://github.com/menchacaeli/sensorplug#readme"
+}
