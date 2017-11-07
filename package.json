@@ -1,8 +1,8 @@
 {
-  "name": "sensorplug",
-  "version": "1.0.0",
+  "name": "sensor-plug",
+  "version": "2.0.0",
   "description": "A micro library to access device sensors via javascript.",
-  "main": "sensorplug.js",
+  "main": "src/sensorplug.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
