@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/menchacaeli/sensorplug.git"
+    "url": "git+https://github.com/menchacaeli/sensor-plug.git"
   },
   "keywords": [
     "device",
