@@ -28,9 +28,9 @@
   "author": "Eli Menchaca <menchacaeli@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/menchacaeli/sensorplug/issues"
+    "url": "https://github.com/menchacaeli/sensor-plug/issues"
   },
-  "homepage": "https://github.com/menchacaeli/sensorplug#readme",
+  "homepage": "https://github.com/menchacaeli/sensor-plug#readme",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-loader": "7.1.2",
